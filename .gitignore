@@ -1,0 +1,6 @@
+bin/
+obj/
+node_modules/
+run.log
+src/BlackyPOS.Web.Host/wwwroot/assets/
+src/BlackyPOS.Web.Host/wwwroot/index.html
